@@ -1,6 +1,6 @@
 cask "clickit" do
-  version "1.6.8"
-  sha256 "28a2747098839237885265c034eae310f6afb7dd787e09d7bd53ed448ac584f0"
+  version "1.6.9"
+  sha256 "aa6d5cb2f02083f9fd25bc20d9acac5b510ce8ff8310426a93e0154423842012"
 
   url "https://github.com/jsonify/ClickIt/releases/download/v#{version}/ClickIt-#{version}.dmg"
   name "ClickIt"
